@@ -1,17 +1,24 @@
 # Roadmap
 
-## Fase 1
+## Version 0.1
 
-- [ ] Lista de projetos
-- [ ] Links rápidos
-- [ ] Tarefas
+- [ ] Homepage
+- [ ] Project List
+- [ ] Quick Links
+- [ ] Tasks
 
-## Fase 2
+## Version 0.2
+
+- [ ] Filters
+- [ ] Tags
+- [ ] Notes
+
+## Version 0.3
 
 - [ ] Dashboard
-- [ ] Filtros
+- [ ] Analytics
 
-## Fase 3
+## Version 1.0
 
-- [ ] IA
-- [ ] Sugestões automáticas
+- [ ] AI Recommendations
+- [ ] Smart Prioritization
