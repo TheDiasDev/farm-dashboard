@@ -1,24 +1,39 @@
-# farm-dashboard
-Personal dashboard to organize and track my Web3 farming activities.
+# Farm Dashboard
 
-Meu dashboard pessoal para organizar atividades Web3.
+A personal dashboard designed to organize and track my Web3 farming activities.
 
-## Problema
+## Problem
 
-Estou gastando muito tempo procurando links, anotando tarefas e tentando lembrar quais projetos devo acompanhar.
+As I became more involved in Web3 farming, I realized I was spending too much time:
 
-## Objetivo
+- looking for useful links
+- tracking projects manually
+- deciding what to do next
+- managing notes across multiple tools
 
-Centralizar tudo em um único lugar.
+Instead of interacting with protocols, I was organizing information.
 
-## Funcionalidades planejadas
+## Goal
 
-- Lista de projetos
-- Links rápidos
-- Tarefas
-- Notas
-- Dashboard
+Create a single place to manage:
+
+- projects
+- useful links
+- tasks
+- notes
+- future opportunities
+
+## MVP Features
+
+- Project list
+- Quick links
+- Task management
+- Notes section
+
+## Roadmap
+
+See docs/roadmap.md
 
 ## Status
 
-🚧 Em desenvolvimento
+🚧 In development
